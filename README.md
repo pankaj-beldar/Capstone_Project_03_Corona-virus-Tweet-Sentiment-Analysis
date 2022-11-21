@@ -86,8 +86,6 @@ XGboost classifier.
 ![download (19)](https://user-images.githubusercontent.com/111692879/202974549-0c649408-32cf-48ee-bdb3-fa2c39f1c5f7.png)
 
 
-![download (18)](https://user-images.githubusercontent.com/111692879/202974471-b195cba6-8d85-4921-9eb8-77e6ab6cc3b9.png)
-
 
 # Useful Links-
 
