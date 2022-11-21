@@ -35,6 +35,15 @@ What are the most frequent Negative Sentiment Words?
 What are the most frequent Neutral Sentiment Words?
 Finding out top 10 most frequent words based on sentiment.
 
+![download (16)](https://user-images.githubusercontent.com/111692879/202973956-98a42450-de9a-46ed-960a-7d1b52c2db0e.png)
+
+
+![download (17)](https://user-images.githubusercontent.com/111692879/202973998-d8941a68-6bf8-4030-ae45-18232154e60d.png)
+
+
+![download (14)](https://user-images.githubusercontent.com/111692879/202974104-84e592cf-6cbf-410d-a43a-c7aa1a8b2d5e.png)
+
+
 # vectorization
 
 Countvectorizer
@@ -52,13 +61,20 @@ Random Forest Classifier
 Multinomial Naive Bayes Classifier
 XGboost classifier.
 
+![download (19)](https://user-images.githubusercontent.com/111692879/202974549-0c649408-32cf-48ee-bdb3-fa2c39f1c5f7.png)
 
+
+![download (18)](https://user-images.githubusercontent.com/111692879/202974471-b195cba6-8d85-4921-9eb8-77e6ab6cc3b9.png)
+
+
+# Useful Links-
 
 Github Link: - https://github.com/pankaj-beldar/Capstone_Project_03_Corona-virus-Tweet-Sentiment-Analysis
 
 Google Drive Link:- https://drive.google.com/drive/folders/1QSN4tLcTWYURTvMFoNq7zOQmOsydgNjK?usp=sharing
 
 Project Title:- Sentiment Analysis : Predicting Sentiment of COVID-19 tweets
+
 
 # Summary of your Capstone project:
 
@@ -75,9 +91,6 @@ I have checked for Voting classifiers and Stacking Classifiers with hyperparamet
 For vectorizing I have tried all kinds of vectorizing methods i.e. tfidfvectorizer ,countvectorizer, ngrams, after doing hyper parameter tuning,I have decided to use countvectorizer for vectorization.
 
 Sentiment Analysis is done based on Positive and Negative Sentiment.
-
-
-Scope
 
 As we are dealing with sentiment analysis of coronavirus tweets, It's very important to classify sentiment as either positive or negative to use it as reference for different stakeholders. Governments can make use of this information in policymaking as they are able to know how people are reacting to this new strain, what all challenges they are facing such as food scarcity, panic attacks, etc. Various profit organizations can make a profit by analyzing various sentiments as one of the tweets tells us about the scarcity of masks and toilet papers. These organizations are able to start the production of essential items thereby making profits. Various NGOs can decide their strategy of how to rehabilitate people by using pertinent facts and information.We could do the analysis with three classes as positive, negative and neutral.
 
