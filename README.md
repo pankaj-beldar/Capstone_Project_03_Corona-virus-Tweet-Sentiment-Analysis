@@ -4,11 +4,11 @@ Author:  Pankaj R. Beldar
 Email: pankajrbell@gmail.com
 
 
-Contribution:
+# Contribution:
 
 This project is based on Natural Language Processing and Aim is to classify the sentiment of Covid 19 Tweets so that it can be used for different stakeholders. I have done Data Preprocessing ,Text Cleaning, Exploratory Data Analysis, Vectorization, Implementing  Multiclass Classification Models,  Hyperparameter tuning, Binary Classification Models, Stacking, Voting Algorithms to increase model accuracy.
 
-In data cleaning we have done following things-
+# Data Cleaning-
 
 Removed @users from tweets
 Removed Punctuations
@@ -22,7 +22,7 @@ Stemming
 Tokenizing
 Spelling Correction
 
-I have try to figure out the following question through Exploratory Data Analysis
+# Exploratory Data Analysis
 
 How many Tweets per day for the given time period?
 Which are the Top 30 Locations from where maximum tweets were done?
@@ -33,14 +33,15 @@ What are the most frequent Positive Sentiment Words?
 What are the most frequent Extremely Negative Sentiment Words?
 What are the most frequent Negative Sentiment Words?
 What are the most frequent Neutral Sentiment Words?
-
 Finding out top 10 most frequent words based on sentiment.
 
-In vectorization, I have done Experiments with
+# vectorization
+
 Countvectorizer
 Tfidfvectorizer
 N-grams vectorizer
-Classification Models used:
+
+# Classification Models used:
 Stacking Classifier
 Stochastic Gradient Descent Classifier
 Voting Classifier 
@@ -59,7 +60,7 @@ Google Drive Link:- https://drive.google.com/drive/folders/1QSN4tLcTWYURTvMFoNq7
 
 Project Title:- Sentiment Analysis : Predicting Sentiment of COVID-19 tweets
 
-Summary of your Capstone project:
+# Summary of your Capstone project:
 
 I have tried Stacking classifier, Stochastic Gradient Descent Classifier, voting, CatBoost, Extra Tree, Support Vector Classifier, Random Forest Classifier, Multinomial Naive Bayes and XGboost classifier.
 
