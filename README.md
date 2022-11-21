@@ -1,6 +1,8 @@
 # Capstone_Project_03_Corona-virus-Tweet-Sentiment-Analysis
 
 Author:  Pankaj R. Beldar
+
+
 Email: pankajrbell@gmail.com
 
 
@@ -25,14 +27,23 @@ Spelling Correction
 # Exploratory Data Analysis
 
 How many Tweets per day for the given time period?
+
 Which are the Top 30 Locations from where maximum tweets were done?
+
 What are the Sentiment types and its Distribution?
+
 What is the relationship between the number of words, characters, sentences and different types of Sentiments?
+
 What are the most frequent Extremely Positive Sentiment Words?
+
 What are the most frequent Positive Sentiment Words?
+
 What are the most frequent Extremely Negative Sentiment Words?
+
 What are the most frequent Negative Sentiment Words?
+
 What are the most frequent Neutral Sentiment Words?
+
 Finding out top 10 most frequent words based on sentiment.
 
 ![download (16)](https://user-images.githubusercontent.com/111692879/202973956-98a42450-de9a-46ed-960a-7d1b52c2db0e.png)
@@ -47,18 +58,29 @@ Finding out top 10 most frequent words based on sentiment.
 # vectorization
 
 Countvectorizer
+
 Tfidfvectorizer
+
 N-grams vectorizer
+
 
 # Classification Models used:
 Stacking Classifier
+
 Stochastic Gradient Descent Classifier
-Voting Classifier 
+
+Voting Classifier
+
 CatBoost Classifier
+
 Extra Tree Classifier
+
 Support Vector Classifier
+
 Random Forest Classifier
+
 Multinomial Naive Bayes Classifier
+
 XGboost classifier.
 
 ![download (19)](https://user-images.githubusercontent.com/111692879/202974549-0c649408-32cf-48ee-bdb3-fa2c39f1c5f7.png)
